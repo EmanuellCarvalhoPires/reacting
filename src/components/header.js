@@ -1,7 +1,7 @@
 import { Container } from "react-bootstrap"
 import { Nav } from "react-bootstrap"
 import { Navbar } from "react-bootstrap"
-import FluidExample from "../img/Logo"
+import FluidExample from "../img/Logo/Logo"
 export default function AppHeader(){
     return (
 <nav

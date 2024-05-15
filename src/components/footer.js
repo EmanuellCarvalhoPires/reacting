@@ -1,5 +1,13 @@
-export default function AppFooter(){
-    return(
-        <div></div>
-    )
+import React from 'react'
+
+function footer() {
+  return (
+    <div>
+   
+    </div>
+
+
+  )
 }
+
+export default footer
